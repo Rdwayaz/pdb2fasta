@@ -11,6 +11,7 @@ Features:
 Usage:
   python pdb2fasta.py structure.pdb
   python pdb2fasta.py structure.pdb > output.fasta
+  github.com/RdwAyaz
 """
 
 import sys
